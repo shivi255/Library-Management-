@@ -80,4 +80,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**Shivanshi Dwivedi** – [GitHub Profile](https://github.com/shivi255)
+Shivanshi Dwivedi
+[GitHub Profile](https://github.com/shivi255)
